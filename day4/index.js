@@ -15,7 +15,7 @@ function passIsValid(pass) {
 			wordMap[sortedWord] = 1;
 		}
 	}
-
+	
 	return true;
 }
 
